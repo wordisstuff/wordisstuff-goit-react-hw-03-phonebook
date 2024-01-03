@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wordisstuff-goit-react-hw-03-phonebook/static/css/main.1fee9cc6.css",
+    "main.js": "/wordisstuff-goit-react-hw-03-phonebook/static/js/main.6d58e42c.js",
+    "index.html": "/wordisstuff-goit-react-hw-03-phonebook/index.html",
+    "main.1fee9cc6.css.map": "/wordisstuff-goit-react-hw-03-phonebook/static/css/main.1fee9cc6.css.map",
+    "main.6d58e42c.js.map": "/wordisstuff-goit-react-hw-03-phonebook/static/js/main.6d58e42c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fee9cc6.css",
+    "static/js/main.6d58e42c.js"
+  ]
+}
